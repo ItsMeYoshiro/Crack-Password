@@ -7,11 +7,11 @@ Uso: ./crack_password.sh <br />
 <br />
 ## OPÇÕES <br />
 
--h, --help\t\t\t Exibe este menu de ajuda. <br />
--v, --version\t\t Versão do programa. <br />
--H, --hash\t\t\t Hash a ser quebrado. <br />
--a, --alg\t\t\t Recebe o nome do algoritmo de criptografia. <br />
--w, --wordlist\t\t Recebe um arquivo contendo uma lista de senhas. <br />
+-h, --help       Exibe este menu de ajuda. <br />
+-v, --version    Versão do programa. <br />
+-H, --hash       Hash a ser quebrado. <br />
+-a, --alg        Recebe o nome do algoritmo de criptografia. <br />
+-w, --wordlist   Recebe um arquivo contendo uma lista de senhas. <br />
 
 ## Exemplo: <br />
 ./crack_password.sh -h <br />
